@@ -1,0 +1,6 @@
+D:/FUNIX_MENTOR_CPP101/Lab9/build-PoitersLab-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/PoitersLab.dir
+D:/FUNIX_MENTOR_CPP101/Lab9/build-PoitersLab-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/FUNIX_MENTOR_CPP101/Lab9/build-PoitersLab-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/FUNIX_MENTOR_CPP101/Lab9/build-PoitersLab-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/FUNIX_MENTOR_CPP101/Lab9/build-PoitersLab-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+D:/FUNIX_MENTOR_CPP101/Lab9/build-PoitersLab-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
